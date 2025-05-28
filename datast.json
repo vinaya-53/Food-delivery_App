@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomatoes, mozzarella, and basil.",
+    "price": 8.99,
+    "imageUrl": "https://example.com/images/margherita.jpg",
+    "storeName": "Pizza Palace",
+    "location": "New York"
+  },
+  {
+    "name": "Cheeseburger",
+    "description": "Juicy grilled beef patty with cheese and toppings.",
+    "price": 6.49,
+    "imageUrl": "https://example.com/images/cheeseburger.jpg",
+    "storeName": "Burger Hub",
+    "location": "Los Angeles"
+  },
+  {
+    "name": "Chicken Biryani",
+    "description": "Fragrant rice with tender chicken and spices.",
+    "price": 9.99,
+    "imageUrl": "https://example.com/images/biryani.jpg",
+    "storeName": "Spice House",
+    "location": "Chicago"
+  },
+  {
+    "name": "Veggie Wrap",
+    "description": "Whole wheat wrap stuffed with fresh vegetables.",
+    "price": 5.99,
+    "imageUrl": "https://example.com/images/veggiewrap.jpg",
+    "storeName": "Green Bite",
+    "location": "San Francisco"
+  },
+  {
+    "name": "Taco Trio",
+    "description": "Three assorted tacos with choice of fillings.",
+    "price": 7.99,
+    "imageUrl": "https://example.com/images/tacos.jpg",
+    "storeName": "Taco Town",
+    "location": "Austin"
+  },
+  {
+    "name": "Butter Chicken",
+    "description": "Creamy tomato-based curry with chicken.",
+    "price": 10.49,
+    "imageUrl": "https://example.com/images/butterchicken.jpg",
+    "storeName": "Taste of India",
+    "location": "Houston"
+  },
+  {
+    "name": "Caesar Salad",
+    "description": "Fresh romaine with Caesar dressing and croutons.",
+    "price": 6.25,
+    "imageUrl": "https://example.com/images/caesarsalad.jpg",
+    "storeName": "Salad Bar",
+    "location": "Seattle"
+  },
+  {
+    "name": "Pasta Alfredo",
+    "description": "Creamy Alfredo sauce over fettuccine.",
+    "price": 8.75,
+    "imageUrl": "https://example.com/images/pastaalfredo.jpg",
+    "storeName": "Pasta Point",
+    "location": "Miami"
+  },
+  {
+    "name": "Fish and Chips",
+    "description": "Golden fried fish with thick-cut fries.",
+    "price": 9.50,
+    "imageUrl": "https://example.com/images/fishchips.jpg",
+    "storeName": "London Fry",
+    "location": "Boston"
+  },
+  {
+    "name": "Mushroom Risotto",
+    "description": "Creamy risotto with wild mushrooms.",
+    "price": 11.00,
+    "imageUrl": "https://example.com/images/risotto.jpg",
+    "storeName": "Italian Roots",
+    "location": "Denver"
+  },
+  {
+    "name": "Grilled Sandwich",
+    "description": "Crispy grilled sandwich with cheese and veggies.",
+    "price": 4.99,
+    "imageUrl": "https://example.com/images/grilledsandwich.jpg",
+    "storeName": "Toasty Bites",
+    "location": "San Diego"
+  },
+  {
+    "name": "Sushi Platter",
+    "description": "Assorted sushi rolls with wasabi and soy sauce.",
+    "price": 13.75,
+    "imageUrl": "https://example.com/images/sushi.jpg",
+    "storeName": "Sushi Zen",
+    "location": "San Jose"
+  },
+  {
+    "name": "Beef Steak",
+    "description": "Grilled beef steak with garlic butter.",
+    "price": 15.99,
+    "imageUrl": "https://example.com/images/steak.jpg",
+    "storeName": "Meat House",
+    "location": "Dallas"
+  },
+  {
+    "name": "Chow Mein",
+    "description": "Stir-fried noodles with vegetables and soy sauce.",
+    "price": 7.25,
+    "imageUrl": "https://example.com/images/chowmein.jpg",
+    "storeName": "Wok Express",
+    "location": "Atlanta"
+  },
+  {
+    "name": "Pancake Stack",
+    "description": "Fluffy pancakes with maple syrup.",
+    "price": 5.50,
+    "imageUrl": "https://example.com/images/pancakes.jpg",
+    "storeName": "Breakfast Club",
+    "location": "Orlando"
+  },
+  {
+    "name": "Falafel Bowl",
+    "description": "Falafel with hummus, veggies and tahini sauce.",
+    "price": 6.75,
+    "imageUrl": "https://example.com/images/falafelbowl.jpg",
+    "storeName": "Middle Eats",
+    "location": "Philadelphia"
+  },
+  {
+    "name": "Ramen Bowl",
+    "description": "Spicy miso ramen with pork and egg.",
+    "price": 9.95,
+    "imageUrl": "https://example.com/images/ramen.jpg",
+    "storeName": "Ramen Nation",
+    "location": "Phoenix"
+  },
+  {
+    "name": "Chicken Wings",
+    "description": "Crispy buffalo wings with ranch dip.",
+    "price": 8.25,
+    "imageUrl": "https://example.com/images/wings.jpg",
+    "storeName": "Wing King",
+    "location": "Las Vegas"
+  },
+  {
+    "name": "Greek Salad",
+    "description": "Cucumber, olives, feta and fresh veggies.",
+    "price": 6.20,
+    "imageUrl": "https://example.com/images/greeksalad.jpg",
+    "storeName": "Mediterraneo",
+    "location": "Charlotte"
+  },
+  {
+    "name": "BBQ Ribs",
+    "description": "Slow-cooked pork ribs in BBQ sauce.",
+    "price": 12.99,
+    "imageUrl": "https://example.com/images/ribs.jpg",
+    "storeName": "Grill Shack",
+    "location": "Detroit"
+  },
+  {
+    "name": "Paneer Tikka",
+    "description": "Marinated paneer grilled to perfection.",
+    "price": 8.45,
+    "imageUrl": "https://example.com/images/paneertikka.jpg",
+    "storeName": "Tandoori Flame",
+    "location": "San Antonio"
+  },
+  {
+    "name": "Shawarma Roll",
+    "description": "Grilled chicken in pita bread with garlic sauce.",
+    "price": 7.40,
+    "imageUrl": "https://example.com/images/shawarma.jpg",
+    "storeName": "Wrap World",
+    "location": "Baltimore"
+  },
+  {
+    "name": "Nachos Supreme",
+    "description": "Corn chips with cheese, beans, salsa and jalapeños.",
+    "price": 6.99,
+    "imageUrl": "https://example.com/images/nachos.jpg",
+    "storeName": "MexiBites",
+    "location": "Cleveland"
+  },
+  {
+    "name": "Choco Lava Cake",
+    "description": "Warm chocolate cake with a molten center.",
+    "price": 4.75,
+    "imageUrl": "https://example.com/images/lavacake.jpg",
+    "storeName": "Sweet Tooth",
+    "location": "Minneapolis"
+  },
+  {
+    "name": "Mango Smoothie",
+    "description": "Fresh mango blended with yogurt and honey.",
+    "price": 3.99,
+    "imageUrl": "https://example.com/images/mangosmoothie.jpg",
+    "storeName": "Juice Corner",
+    "location": "Tampa"
+  }
+]
